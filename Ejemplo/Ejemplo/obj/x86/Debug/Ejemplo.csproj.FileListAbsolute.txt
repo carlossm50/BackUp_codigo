@@ -1,0 +1,8 @@
+C:\Compartido\Proyectos\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe
+C:\Compartido\Proyectos\Ejemplo\Ejemplo\bin\Debug\Ejemplo.pdb
+C:\Compartido\Proyectos\Ejemplo\Ejemplo\obj\x86\Debug\Ejemplo.Form1.resources
+C:\Compartido\Proyectos\Ejemplo\Ejemplo\obj\x86\Debug\Ejemplo.Properties.Resources.resources
+C:\Compartido\Proyectos\Ejemplo\Ejemplo\obj\x86\Debug\Ejemplo.csproj.GenerateResource.Cache
+C:\Compartido\Proyectos\Ejemplo\Ejemplo\obj\x86\Debug\Ejemplo.exe
+C:\Compartido\Proyectos\Ejemplo\Ejemplo\obj\x86\Debug\Ejemplo.pdb
+C:\Compartido\Proyectos\Ejemplo\Ejemplo\obj\x86\Debug\Ejemplo.csprojResolveAssemblyReference.cache

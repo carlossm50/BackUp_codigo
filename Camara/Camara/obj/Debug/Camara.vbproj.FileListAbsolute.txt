@@ -1,0 +1,31 @@
+C:\Users\Fabian\AppData\Local\Temporary Projects\Camara\bin\Debug\Camara.exe
+C:\Users\Fabian\AppData\Local\Temporary Projects\Camara\bin\Debug\Camara.pdb
+C:\Users\Fabian\AppData\Local\Temporary Projects\Camara\bin\Debug\Camara.xml
+C:\Users\Fabian\AppData\Local\Temporary Projects\Camara\bin\Debug\WebCAM.dll
+C:\Users\Fabian\AppData\Local\Temporary Projects\Camara\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabian\AppData\Local\Temporary Projects\Camara\obj\Debug\Camara.Capturar.resources
+C:\Users\Fabian\AppData\Local\Temporary Projects\Camara\obj\Debug\Camara.Resources.resources
+C:\Users\Fabian\AppData\Local\Temporary Projects\Camara\obj\Debug\Camara.vbproj.GenerateResource.Cache
+C:\Users\Fabian\AppData\Local\Temporary Projects\Camara\obj\Debug\Camara.exe
+C:\Users\Fabian\AppData\Local\Temporary Projects\Camara\obj\Debug\Camara.xml
+C:\Users\Fabian\AppData\Local\Temporary Projects\Camara\obj\Debug\Camara.pdb
+C:\Users\Fabian\Documents\programas mios visual\Camara\Camara\obj\Debug\Camara.exe
+C:\Users\Fabian\Documents\programas mios visual\Camara\Camara\obj\Debug\Camara.xml
+C:\Users\Fabian\Documents\programas mios visual\Camara\Camara\obj\Debug\Camara.pdb
+C:\Users\Fabian\Documents\programas mios visual\Camara\Camara\bin\Debug\Camara.exe
+C:\Users\Fabian\Documents\programas mios visual\Camara\Camara\bin\Debug\Camara.pdb
+C:\Users\Fabian\Documents\programas mios visual\Camara\Camara\bin\Debug\Camara.xml
+C:\Users\Fabian\Documents\programas mios visual\Camara\Camara\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabian\Documents\programas mios visual\Camara\Camara\obj\Debug\Camara.Capturar.resources
+C:\Users\Fabian\Documents\programas mios visual\Camara\Camara\obj\Debug\Camara.Resources.resources
+C:\Users\Fabian\Documents\programas mios visual\Camara\Camara\obj\Debug\Camara.vbproj.GenerateResource.Cache
+C:\Compartido\Proyectos\Camara\Camara\obj\Debug\Camara.exe
+C:\Compartido\Proyectos\Camara\Camara\obj\Debug\Camara.xml
+C:\Compartido\Proyectos\Camara\Camara\obj\Debug\Camara.pdb
+C:\Compartido\Proyectos\Camara\Camara\bin\Debug\Camara.exe
+C:\Compartido\Proyectos\Camara\Camara\bin\Debug\Camara.pdb
+C:\Compartido\Proyectos\Camara\Camara\bin\Debug\Camara.xml
+C:\Compartido\Proyectos\Camara\Camara\obj\Debug\Camara.vbprojResolveAssemblyReference.cache
+C:\Compartido\Proyectos\Camara\Camara\obj\Debug\Camara.Capturar.resources
+C:\Compartido\Proyectos\Camara\Camara\obj\Debug\Camara.Resources.resources
+C:\Compartido\Proyectos\Camara\Camara\obj\Debug\Camara.vbproj.GenerateResource.Cache

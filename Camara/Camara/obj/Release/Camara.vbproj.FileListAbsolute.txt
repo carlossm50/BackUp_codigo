@@ -1,0 +1,11 @@
+C:\Users\Fabian\Documents\programas mios visual\Camara\Camara\bin\Release\Camara.exe
+C:\Users\Fabian\Documents\programas mios visual\Camara\Camara\bin\Release\Camara.pdb
+C:\Users\Fabian\Documents\programas mios visual\Camara\Camara\bin\Release\Camara.xml
+C:\Users\Fabian\Documents\programas mios visual\Camara\Camara\bin\Release\WebCAM.dll
+C:\Users\Fabian\Documents\programas mios visual\Camara\Camara\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Fabian\Documents\programas mios visual\Camara\Camara\obj\Release\Camara.Capturar.resources
+C:\Users\Fabian\Documents\programas mios visual\Camara\Camara\obj\Release\Camara.Resources.resources
+C:\Users\Fabian\Documents\programas mios visual\Camara\Camara\obj\Release\Camara.vbproj.GenerateResource.Cache
+C:\Users\Fabian\Documents\programas mios visual\Camara\Camara\obj\Release\Camara.exe
+C:\Users\Fabian\Documents\programas mios visual\Camara\Camara\obj\Release\Camara.xml
+C:\Users\Fabian\Documents\programas mios visual\Camara\Camara\obj\Release\Camara.pdb

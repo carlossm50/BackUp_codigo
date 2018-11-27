@@ -1,0 +1,6 @@
+C:\Compartido\Proyectos\CRPEjemplo\CRPEjemplo\bin\Debug\CRPEjemplo.exe
+C:\Compartido\Proyectos\CRPEjemplo\CRPEjemplo\bin\Debug\CRPEjemplo.pdb
+C:\Compartido\Proyectos\CRPEjemplo\CRPEjemplo\obj\x86\Debug\CRPEjemplo.exe
+C:\Compartido\Proyectos\CRPEjemplo\CRPEjemplo\obj\x86\Debug\CRPEjemplo.pdb
+C:\Compartido\Proyectos\CRPEjemplo\CRPEjemplo\obj\x86\Debug\CRPEjemplo.Form1.resources
+C:\Compartido\Proyectos\CRPEjemplo\CRPEjemplo\obj\x86\Debug\CRPEjemplo.csproj.GenerateResource.Cache

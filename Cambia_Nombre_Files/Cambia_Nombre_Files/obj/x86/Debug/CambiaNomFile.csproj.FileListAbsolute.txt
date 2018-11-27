@@ -1,0 +1,8 @@
+C:\Compartido\Proyectos\CRPEjemplo\CRPEjemplo\obj\x86\Debug\CRPEjemplo.exe
+C:\Compartido\Proyectos\CRPEjemplo\CRPEjemplo\obj\x86\Debug\CRPEjemplo.pdb
+C:\Compartido\Proyectos\Cambia_Nombre_Files\Cambia_Nombre_Files\obj\x86\Debug\CRPEjemplo.exe
+C:\Compartido\Proyectos\Cambia_Nombre_Files\Cambia_Nombre_Files\obj\x86\Debug\CRPEjemplo.pdb
+C:\Compartido\Proyectos\Cambia_Nombre_Files\Cambia_Nombre_Files\bin\Debug\CRPEjemplo.exe
+C:\Compartido\Proyectos\Cambia_Nombre_Files\Cambia_Nombre_Files\bin\Debug\CRPEjemplo.pdb
+C:\Compartido\Proyectos\Cambia_Nombre_Files\Cambia_Nombre_Files\obj\x86\Debug\CRPEjemplo.Form1.resources
+C:\Compartido\Proyectos\Cambia_Nombre_Files\Cambia_Nombre_Files\obj\x86\Debug\CambiaNomFile.csproj.GenerateResource.Cache

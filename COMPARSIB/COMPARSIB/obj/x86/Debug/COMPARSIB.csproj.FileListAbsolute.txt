@@ -1,0 +1,11 @@
+C:\Compartido\Proyectos\COMPARSIB\COMPARSIB\bin\Debug\COMPARSIB.exe
+C:\Compartido\Proyectos\COMPARSIB\COMPARSIB\bin\Debug\COMPARSIB.pdb
+C:\Compartido\Proyectos\COMPARSIB\COMPARSIB\obj\x86\Debug\COMPARSIB.Form1.resources
+C:\Compartido\Proyectos\COMPARSIB\COMPARSIB\obj\x86\Debug\COMPARSIB.Properties.Resources.resources
+C:\Compartido\Proyectos\COMPARSIB\COMPARSIB\obj\x86\Debug\COMPARSIB.exe
+C:\Compartido\Proyectos\COMPARSIB\COMPARSIB\obj\x86\Debug\COMPARSIB.pdb
+C:\Compartido\Proyectos\COMPARSIB\COMPARSIB\obj\x86\Debug\COMPARSIB.frmLoging.resources
+C:\Compartido\Proyectos\COMPARSIB\COMPARSIB\obj\x86\Debug\COMPARSIB.csproj.GenerateResource.Cache
+C:\Compartido\Proyectos\COMPARSIB\COMPARSIB\obj\x86\Debug\COMPARSIB.csprojResolveAssemblyReference.cache
+C:\Compartido\Proyectos\COMPARSIB\COMPARSIB\bin\Debug\COMPARSIB.exe.config
+C:\Compartido\Proyectos\COMPARSIB\COMPARSIB\obj\x86\Debug\COMPARSIB.DifDE21.resources

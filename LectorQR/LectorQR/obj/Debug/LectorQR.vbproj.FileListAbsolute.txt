@@ -1,0 +1,48 @@
+C:\Users\Yenier\AppData\Local\Temporary Projects\LectorQR\bin\Debug\LectorQR.exe.config
+C:\Users\Yenier\AppData\Local\Temporary Projects\LectorQR\bin\Debug\LectorQR.exe
+C:\Users\Yenier\AppData\Local\Temporary Projects\LectorQR\bin\Debug\LectorQR.pdb
+C:\Users\Yenier\AppData\Local\Temporary Projects\LectorQR\bin\Debug\LectorQR.xml
+C:\Users\Yenier\AppData\Local\Temporary Projects\LectorQR\bin\Debug\AForge.Controls.dll
+C:\Users\Yenier\AppData\Local\Temporary Projects\LectorQR\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Yenier\AppData\Local\Temporary Projects\LectorQR\bin\Debug\AForge.Video.dll
+C:\Users\Yenier\AppData\Local\Temporary Projects\LectorQR\bin\Debug\BarcodeLib.BarcodeReader.dll
+C:\Users\Yenier\AppData\Local\Temporary Projects\LectorQR\bin\Debug\AForge.dll
+C:\Users\Yenier\AppData\Local\Temporary Projects\LectorQR\bin\Debug\AForge.Imaging.dll
+C:\Users\Yenier\AppData\Local\Temporary Projects\LectorQR\bin\Debug\AForge.Math.dll
+C:\Users\Yenier\AppData\Local\Temporary Projects\LectorQR\bin\Debug\AForge.Controls.xml
+C:\Users\Yenier\AppData\Local\Temporary Projects\LectorQR\bin\Debug\AForge.Video.xml
+C:\Users\Yenier\AppData\Local\Temporary Projects\LectorQR\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Yenier\AppData\Local\Temporary Projects\LectorQR\bin\Debug\AForge.xml
+C:\Users\Yenier\AppData\Local\Temporary Projects\LectorQR\bin\Debug\AForge.Imaging.xml
+C:\Users\Yenier\AppData\Local\Temporary Projects\LectorQR\bin\Debug\AForge.Math.xml
+C:\Users\Yenier\AppData\Local\Temporary Projects\LectorQR\obj\Debug\LectorQR.vbprojResolveAssemblyReference.cache
+C:\Users\Yenier\AppData\Local\Temporary Projects\LectorQR\obj\Debug\LectorQR.Form1.resources
+C:\Users\Yenier\AppData\Local\Temporary Projects\LectorQR\obj\Debug\LectorQR.Resources.resources
+C:\Users\Yenier\AppData\Local\Temporary Projects\LectorQR\obj\Debug\LectorQR.vbproj.GenerateResource.Cache
+C:\Users\Yenier\AppData\Local\Temporary Projects\LectorQR\obj\Debug\LectorQR.exe
+C:\Users\Yenier\AppData\Local\Temporary Projects\LectorQR\obj\Debug\LectorQR.xml
+C:\Users\Yenier\AppData\Local\Temporary Projects\LectorQR\obj\Debug\LectorQR.pdb
+D:\Escritorio\LectorQR\LectorQR\bin\Debug\LectorQR.exe.config
+D:\Escritorio\LectorQR\LectorQR\obj\Debug\LectorQR.exe
+D:\Escritorio\LectorQR\LectorQR\obj\Debug\LectorQR.xml
+D:\Escritorio\LectorQR\LectorQR\obj\Debug\LectorQR.pdb
+D:\Escritorio\LectorQR\LectorQR\bin\Debug\LectorQR.exe
+D:\Escritorio\LectorQR\LectorQR\bin\Debug\LectorQR.pdb
+D:\Escritorio\LectorQR\LectorQR\bin\Debug\LectorQR.xml
+D:\Escritorio\LectorQR\LectorQR\bin\Debug\AForge.Controls.dll
+D:\Escritorio\LectorQR\LectorQR\bin\Debug\AForge.Video.DirectShow.dll
+D:\Escritorio\LectorQR\LectorQR\bin\Debug\AForge.Video.dll
+D:\Escritorio\LectorQR\LectorQR\bin\Debug\BarcodeLib.BarcodeReader.dll
+D:\Escritorio\LectorQR\LectorQR\bin\Debug\AForge.dll
+D:\Escritorio\LectorQR\LectorQR\bin\Debug\AForge.Imaging.dll
+D:\Escritorio\LectorQR\LectorQR\bin\Debug\AForge.Math.dll
+D:\Escritorio\LectorQR\LectorQR\bin\Debug\AForge.Controls.xml
+D:\Escritorio\LectorQR\LectorQR\bin\Debug\AForge.Video.xml
+D:\Escritorio\LectorQR\LectorQR\bin\Debug\AForge.Video.DirectShow.xml
+D:\Escritorio\LectorQR\LectorQR\bin\Debug\AForge.xml
+D:\Escritorio\LectorQR\LectorQR\bin\Debug\AForge.Imaging.xml
+D:\Escritorio\LectorQR\LectorQR\bin\Debug\AForge.Math.xml
+D:\Escritorio\LectorQR\LectorQR\obj\Debug\LectorQR.vbprojResolveAssemblyReference.cache
+D:\Escritorio\LectorQR\LectorQR\obj\Debug\LectorQR.Form1.resources
+D:\Escritorio\LectorQR\LectorQR\obj\Debug\LectorQR.Resources.resources
+D:\Escritorio\LectorQR\LectorQR\obj\Debug\LectorQR.vbproj.GenerateResource.Cache

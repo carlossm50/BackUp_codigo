@@ -1,0 +1,24 @@
+e:\mis documentos\visual studio 2010\AjpdSoftLectorCodigosQR\AjpdSoftLectorCodigosQR\bin\Debug\AjpdSoftLectorCodigosQR.exe
+e:\mis documentos\visual studio 2010\AjpdSoftLectorCodigosQR\AjpdSoftLectorCodigosQR\bin\Debug\AjpdSoftLectorCodigosQR.pdb
+e:\mis documentos\visual studio 2010\AjpdSoftLectorCodigosQR\AjpdSoftLectorCodigosQR\bin\Debug\AjpdSoftLectorCodigosQR.xml
+e:\mis documentos\visual studio 2010\AjpdSoftLectorCodigosQR\AjpdSoftLectorCodigosQR\obj\x86\Debug\ResolveAssemblyReference.cache
+e:\mis documentos\visual studio 2010\AjpdSoftLectorCodigosQR\AjpdSoftLectorCodigosQR\obj\x86\Debug\AjpdSoftLectorCodigosQR.formLeerGenerarCodigosQR.resources
+e:\mis documentos\visual studio 2010\AjpdSoftLectorCodigosQR\AjpdSoftLectorCodigosQR\obj\x86\Debug\AjpdSoftLectorCodigosQR.Resources.resources
+e:\mis documentos\visual studio 2010\AjpdSoftLectorCodigosQR\AjpdSoftLectorCodigosQR\obj\x86\Debug\GenerateResource.read.1.tlog
+e:\mis documentos\visual studio 2010\AjpdSoftLectorCodigosQR\AjpdSoftLectorCodigosQR\obj\x86\Debug\GenerateResource.write.1.tlog
+e:\mis documentos\visual studio 2010\AjpdSoftLectorCodigosQR\AjpdSoftLectorCodigosQR\obj\x86\Debug\AjpdSoftLectorCodigosQR.exe
+e:\mis documentos\visual studio 2010\AjpdSoftLectorCodigosQR\AjpdSoftLectorCodigosQR\obj\x86\Debug\AjpdSoftLectorCodigosQR.xml
+e:\mis documentos\visual studio 2010\AjpdSoftLectorCodigosQR\AjpdSoftLectorCodigosQR\obj\x86\Debug\AjpdSoftLectorCodigosQR.pdb
+e:\mis documentos\visual studio 2010\AjpdSoftLectorCodigosQR\AjpdSoftLectorCodigosQR\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Compartido\Proyectos\AjpdSoft_Generador_y_Lector_codigos_QR\AjpdSoftLectorCodigosQR\obj\x86\Debug\AjpdSoftLectorCodigosQR.exe
+C:\Compartido\Proyectos\AjpdSoft_Generador_y_Lector_codigos_QR\AjpdSoftLectorCodigosQR\obj\x86\Debug\AjpdSoftLectorCodigosQR.xml
+C:\Compartido\Proyectos\AjpdSoft_Generador_y_Lector_codigos_QR\AjpdSoftLectorCodigosQR\obj\x86\Debug\AjpdSoftLectorCodigosQR.pdb
+C:\Compartido\Proyectos\AjpdSoft_Generador_y_Lector_codigos_QR\AjpdSoftLectorCodigosQR\bin\Debug\AjpdSoftLectorCodigosQR.exe
+C:\Compartido\Proyectos\AjpdSoft_Generador_y_Lector_codigos_QR\AjpdSoftLectorCodigosQR\bin\Debug\AjpdSoftLectorCodigosQR.pdb
+C:\Compartido\Proyectos\AjpdSoft_Generador_y_Lector_codigos_QR\AjpdSoftLectorCodigosQR\bin\Debug\AjpdSoftLectorCodigosQR.xml
+C:\Compartido\Proyectos\AjpdSoft_Generador_y_Lector_codigos_QR\AjpdSoftLectorCodigosQR\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Compartido\Proyectos\AjpdSoft_Generador_y_Lector_codigos_QR\AjpdSoftLectorCodigosQR\bin\Debug\WebCAM.dll
+C:\Compartido\Proyectos\AjpdSoft_Generador_y_Lector_codigos_QR\AjpdSoftLectorCodigosQR\obj\x86\Debug\AjpdSoftLectorCodigosQR.vbprojResolveAssemblyReference.cache
+C:\Compartido\Proyectos\AjpdSoft_Generador_y_Lector_codigos_QR\AjpdSoftLectorCodigosQR\obj\x86\Debug\AjpdSoftLectorCodigosQR.formLeerGenerarCodigosQR.resources
+C:\Compartido\Proyectos\AjpdSoft_Generador_y_Lector_codigos_QR\AjpdSoftLectorCodigosQR\obj\x86\Debug\AjpdSoftLectorCodigosQR.Resources.resources
+C:\Compartido\Proyectos\AjpdSoft_Generador_y_Lector_codigos_QR\AjpdSoftLectorCodigosQR\obj\x86\Debug\AjpdSoftLectorCodigosQR.vbproj.GenerateResource.Cache

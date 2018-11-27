@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Camara">
+</Property><Property Name="Solution File" Value="C:\Compartido\Proyectos\Camara\Camara.sln">
+</Property><Property Name="Date" Value="miércoles, 22 de junio de 2016">
+</Property><Property Name="Time" Value="11:59 a.m.">
+</Property></Properties><Event ErrorLevel="0" Project="Camara" Source="Camara\Camara.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Camara" Source="Camara\Camara.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Camara.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Camara.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Camara" Source="Camara\Camara.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
