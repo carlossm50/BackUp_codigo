@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<form action="/addActivity" method="post" enctype="multipart/form-data">
+  <label for="idName">Nombre de la actividad:</label>
+  <input id="idName" type="input" name="actName" placeholder="Actividad" value="Auditoria Sigerd"></input><br/>
+  <label for="idResponsable">Responsable:</label>
+ <input id="idResponsable" type="text" name="responsable" placeholder="Responsable" value="Carlos Severino"></input><br/>
+<label for="idDesciption">Descipción de la actividad:</label>
+  <textarea id="idDesciption" name="description" rows="4" cols="50" >
+Auditoria Sigerd
+  </textarea><br/>
+  <label for="idDate"> Fecha en que se realizó la actividad:</label>
+  <input id="idDate" type="date" name="date"/><br/>
+  <label for="idEvidencia">Evicencias:</label>
+  <input id="idEvidencia" type="file" name="myFile" multiple/><br/>
+  <input type="submit" value="Enviar"/>
+</form>
+
+</body>
+</html>
